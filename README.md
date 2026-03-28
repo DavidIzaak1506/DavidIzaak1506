@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello there
 
 <!--
 **DavidIzaak1506/DavidIzaak1506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently working on developing AI-tools that will help my co-founder and myself to make starting a business as easy as possible. 
